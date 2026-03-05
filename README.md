@@ -1,0 +1,1 @@
+Mini Calculator project made in HTML, CSS and JavasScript
